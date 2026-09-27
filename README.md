@@ -19,7 +19,7 @@ I am currently a Research Intern at AI Imaging Lab, Korea University, and an Und
 
 **Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion**  
 **Yejun Jung**, Dongyoon Kim, Jinsun Park  
-**NeurIPS 2026** · [Paper] · [Code]
+NeurIPS 2026 · [Paper] · [Code]
 
 **CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**  
 Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park  

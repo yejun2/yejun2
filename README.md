@@ -32,20 +32,14 @@ Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park
 
 ## Research Experience
 
-Research Intern — AI Imaging Lab, Korea University
+Research Intern — AI Imaging Lab, Korea University. Sep. 2026 – Present
 
-Sep. 2026 – Present
-
-Undergraduate Researcher — VIPLab, Pusan National University
-
-Jul. 2025 – Present
+Undergraduate Researcher — VIPLab, Pusan National University. Jul. 2025 – Present
 
 ## Selected Projects
 
-PBVS @ CVPR 2026 — Thermal Image Super-Resolution Challenge
-
-Track 1, 9th / 82 teams
-
+PBVS @ CVPR 2026 — Thermal Image Super-Resolution Challenge  
+Track 1, 9th / 82 teams  
 [Code]
 
 ### Contact

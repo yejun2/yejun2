@@ -26,9 +26,8 @@ Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park
 *Under review at WACV 2027* · [Paper] · [Code]
 
 **Diffusion Transformer for Sea-Ice Concentration Forecasting**  
-**Yejun Jung***, Dongyoon Kim*, Jinsun Park  
+**Yejun Jung***, Dongyoon Kim*, Jinsun Park  <sub>* Equal contribution</sub>
 *IPIU 2026* · [Paper] · [Code]  
-<sub>* Equal contribution</sub>
 
 ## Research Experience
 

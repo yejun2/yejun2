@@ -53,5 +53,5 @@ Track 1, 9th / 82 teams
 Diffusion-based Human Motion Prediction
 Conditional generative modeling for long-term 3D human pose prediction.
 
-## Contact
+### Contact
 Email: yejun2@pusan.ac.kr

@@ -11,33 +11,32 @@ I am currently a Research Intern at AI Imaging Lab, Korea University, and an Und
 
 ## News 🎉
 
-### Sep. 2026 — Our paper Mixture-of-Hierarchical Experts was accepted to NeurIPS 2026.
-### 2026 — Ranked 9th / 82 teams in the PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1.
-### 2026 — Our work on diffusion-based sea-ice forecasting was accepted to IPIU 2026.
+**Sep. 2026 — Our paper Mixture-of-Hierarchical Experts was accepted to NeurIPS 2026.**
+**2026 — Ranked 9th / 82 teams in the PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1.**
+**2026 — Our work on diffusion-based sea-ice forecasting was accepted to IPIU 2026.**
 
-Publications
+## Publications
 
-Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion
-
-Yejun Jung, Dongyoon Kim, Jinsun Park
-Advances in Neural Information Processing Systems (NeurIPS), 2026.
+**Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion**
+**Yejun Jung**, Dongyoon Kim, Jinsun Park
+**Advances in Neural Information Processing Systems (NeurIPS)**, 2026.
 
 [Paper] · [Code]
 
-CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding
+**CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**
+Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park
+**IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, 2027. Under review.
 
-Minjung Gong, Yejun Jung, Dongyun Kim, Jinsun Park
-IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027. Under review.
+[Paper] · [Code]
 
-Diffusion Transformer for Sea-Ice Concentration Forecasting
-
-Yejun Jung, Dongyoon Kim, Jinsun Park
-Image Processing and Understanding Workshop (IPIU), 2026.
+**Diffusion Transformer for Sea-Ice Concentration Forecasting**
+**Yejun Jung**, Dongyoon Kim, Jinsun Park
+**Image Processing and Understanding Workshop (IPIU)**, 2026.
 Co-first author.
 
 [Paper] · [Code]
 
-Research Experience
+##Research Experience
 
 Research Intern — AI Imaging Lab, Korea University
 Sep. 2026 – Present
@@ -45,7 +44,7 @@ Sep. 2026 – Present
 Undergraduate Researcher — VIPLab, Pusan National University
 Jul. 2025 – Present
 
-Selected Projects
+##Selected Projects
 
 PBVS @ CVPR 2026 — Thermal Image Super-Resolution Challenge
 Track 1, 9th / 82 teams
@@ -54,7 +53,5 @@ Track 1, 9th / 82 teams
 Diffusion-based Human Motion Prediction
 Conditional generative modeling for long-term 3D human pose prediction.
 
-Contact
-
-* Email: yejun2@pusan.ac.kr
-* GitHub: github.com/yejun2
+##Contact
+Email: yejun2@pusan.ac.kr

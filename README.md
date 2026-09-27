@@ -17,31 +17,18 @@ I am currently a Research Intern at AI Imaging Lab, Korea University, and an Und
 
 ## Publications
 
-**Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion**
+**Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion**  
+**Yejun Jung**, Dongyoon Kim, Jinsun Park  
+**NeurIPS 2026** · [Paper] · [Code]
 
-**Yejun Jung**, Dongyoon Kim, Jinsun Park
+**CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**  
+Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park  
+*Under review at WACV 2027* · [Paper] · [Code]
 
-**Advances in Neural Information Processing Systems (NeurIPS)**, 2026.
-
-[Paper] · [Code]
-
-**CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**
-
-Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park
-
-**IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, 2027. Under review.
-
-[Paper] · [Code]
-
-**Diffusion Transformer for Sea-Ice Concentration Forecasting**
-
-**Yejun Jung**, Dongyoon Kim, Jinsun Park
-
-**Image Processing and Understanding Workshop (IPIU)**, 2026.
-
-Co-first author.
-
-[Paper] · [Code]
+**Diffusion Transformer for Sea-Ice Concentration Forecasting**  
+**Yejun Jung***, Dongyoon Kim*, Jinsun Park  
+*IPIU 2026* · [Paper] · [Code]  
+<sub>* Equal contribution</sub>
 
 ## Research Experience
 

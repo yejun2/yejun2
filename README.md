@@ -36,7 +36,7 @@ Co-first author.
 
 [Paper] · [Code]
 
-##Research Experience
+## Research Experience
 
 Research Intern — AI Imaging Lab, Korea University
 Sep. 2026 – Present
@@ -44,7 +44,7 @@ Sep. 2026 – Present
 Undergraduate Researcher — VIPLab, Pusan National University
 Jul. 2025 – Present
 
-##Selected Projects
+## Selected Projects
 
 PBVS @ CVPR 2026 — Thermal Image Super-Resolution Challenge
 Track 1, 9th / 82 teams
@@ -53,5 +53,5 @@ Track 1, 9th / 82 teams
 Diffusion-based Human Motion Prediction
 Conditional generative modeling for long-term 3D human pose prediction.
 
-##Contact
+## Contact
 Email: yejun2@pusan.ac.kr

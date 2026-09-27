@@ -11,7 +11,7 @@ I am currently a Research Intern at AI Imaging Lab, Korea University, and an Und
 
 ## News 🎉
 
-- **Sep. 2026 — Our paper Mixture-of-Hierarchical Experts was accepted to NeurIPS 2026.**
+- **2026 — Our paper Mixture-of-Hierarchical Experts was accepted to NeurIPS 2026.**
 - **2026 — Ranked 9th / 82 teams in the PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1.**
 - **2026 — Our work on diffusion-based sea-ice forecasting was accepted to IPIU 2026.**
 

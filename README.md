@@ -4,12 +4,10 @@ I am an undergraduate student in Information & Computer Engineering at Pusan Nat
 I am currently a Research Intern at AI Imaging Lab, Korea University, and an Undergraduate Researcher at VIPLab, Pusan National University.
 
 ## Research Interests
-
-* Generative Models and Diffusion Models
-* Vision Backbone Architectures
-* State Space Models
-* Efficient and Adaptive Generation
-* Representation Learning
+- Generative Models and Diffusion Models
+- Vision Backbone Architectures
+- State Space Models
+- Representation Learning
 
 ### News
 

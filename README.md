@@ -3,6 +3,12 @@
 I am an undergraduate student in Information & Computer Engineering at Pusan National University.
 I am currently a Research Intern at AI Imaging Lab, Korea University, and an Undergraduate Researcher at VIPLab, Pusan National University.
 
+## Education
+
+**Pusan National University**  
+B.S. in Information & Computer Engineering  
+Mar. 2021 – Feb. 2027 (Expected)
+
 ## Research Interests
 - Generative Models and Diffusion Models
 - Vision Backbone Architectures

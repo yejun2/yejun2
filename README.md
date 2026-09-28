@@ -40,10 +40,11 @@ Undergraduate Researcher — VIPLab, Pusan National University. Jul. 2025 – Pr
 ## Awards and Honors
 
 - 9th Place, PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1 — 2026
-
 - Excellence Award, 6th Pusan National University Creative Convergence SW Hackathon — 2025
-
 - Encouragement Award, Pusan National University CodeRace — 2022
+- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=j952225)](https://solved.ac/yejun2313)
+<img src="http://mazandi.herokuapp.com/api?handle=yejun2313&theme=warm"/>
 
 ### Contact
 Email: yejun2@pusan.ac.kr

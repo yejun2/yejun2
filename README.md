@@ -45,7 +45,6 @@ Undergraduate Researcher — VIPLab, Pusan National University. Jul. 2025 – Pr
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejun2313)](https://solved.ac/yejun2313)
-<img src="http://mazandi.herokuapp.com/api?handle=yejun2313&theme=warm"/>
 
 ### Contact
 Email: yejun2@pusan.ac.kr

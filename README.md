@@ -36,11 +36,14 @@ Research Intern — AI Imaging Lab, Korea University. Sep. 2026 – Present
 
 Undergraduate Researcher — VIPLab, Pusan National University. Jul. 2025 – Present
 
-## Selected Projects
 
-PBVS @ CVPR 2026 — Thermal Image Super-Resolution Challenge  
-Track 1, 9th / 82 teams  
-[Code]
+## Awards and Honors
+
+- 9th Place, PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1 — 2026
+
+- Excellence Award, 6th Pusan National University Creative Convergence SW Hackathon — 2025
+
+- Encouragement Award, Pusan National University CodeRace — 2022
 
 ### Contact
 Email: yejun2@pusan.ac.kr

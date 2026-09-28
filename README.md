@@ -40,7 +40,7 @@ Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park
 
 Research Intern — AI Imaging Lab, Korea University. Sep. 2026 – Present
 
-Undergraduate Researcher — VIPLab, Pusan National University. Jul. 2025 – Present
+Undergraduate Researcher — Visual Intelligence and Perceptron Lab, Pusan National University. Jul. 2025 – Present
 
 
 ## Awards and Honors

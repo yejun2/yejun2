@@ -47,7 +47,7 @@ Undergraduate Researcher — Visual Intelligence and Perceptron Lab, Pusan Natio
 
 - 9th Place, PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1 — 2026
 - Excellence Award, 6th Pusan National University Creative Convergence SW Hackathon — 2025
-- Encouragement Award, Pusan National University CodeRace — 2022
+- Bronze Award, Pusan National University CodeRace — 2022
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejun2313)](https://solved.ac/yejun2313)

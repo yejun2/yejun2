@@ -14,7 +14,8 @@ Mar. 2021 – Feb. 2027 (Expected)
 - Vision Backbone Architectures
 - State Space Models
 - Representation Learning
-
+- world models
+  
 ## News 🎉
 
 - **2026 — Our paper Mixture-of-Hierarchical Experts was accepted to NeurIPS 2026.**

@@ -1,6 +1,6 @@
 # Yejun Jung
 
-You can call me James.
+Pronounce
 
 I am an undergraduate student in Information & Computer Engineering at Pusan National University.
 I am currently a Research Intern at AI Imaging Lab, Korea University, and an Undergraduate Researcher at VIPLab, Pusan National University.

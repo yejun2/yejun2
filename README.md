@@ -30,7 +30,7 @@ Mar. 2021 – Feb. 2027 (Expected)
 NeurIPS 2026 · [Paper] · [Code]  
 **Yejun Jung**, Dongyoon Kim, Jinsun Park
 
-**CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**
+**CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**  
 WACV 2027 · [Paper] · [Code]  
 Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park  
 

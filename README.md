@@ -30,7 +30,8 @@ NeurIPS 2026 · [Paper] · [Code]
 
 **CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**  
 Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park  
-*Under review at WACV 2027* · [Paper] · [Code]
+Winter Conference on Applications of Computer Vision 2027
+ · [Paper] · [Code]
 
 **Diffusion Transformer for Sea-Ice Concentration Forecasting**  
 **Yejun Jung***, Dongyoon Kim*, Jinsun Park  

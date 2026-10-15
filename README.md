@@ -26,18 +26,14 @@ Mar. 2021 – Feb. 2027 (Expected)
 
 ## Publications
 
-**Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion**  
-**Yejun Jung**, Dongyoon Kim, Jinsun Park  
-NeurIPS 2026 · [Paper] · [Code]
+**Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion**  , NeurIPS 2026 · [Paper] · [Code]  
+**Yejun Jung**, Dongyoon Kim, Jinsun Park
 
-**CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**  
+**CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**  , Winter Conference on Applications of Computer Vision 2027 · [Paper] · [Code]  
 Minjung Gong, **Yejun Jung**, Dongyoon Kim, Jinsun Park  
-Winter Conference on Applications of Computer Vision 2027
- · [Paper] · [Code]
 
-**Diffusion Transformer for Sea-Ice Concentration Forecasting**  
+**Diffusion Transformer for Sea-Ice Concentration Forecasting**  *IPIU 2026* · [Paper] · [Code]  
 **Yejun Jung***, Dongyoon Kim*, Jinsun Park  
-*IPIU 2026* · [Paper] · [Code]  
 <sub>* Equal contribution</sub>
 
 ## Research Experience

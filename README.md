@@ -12,9 +12,8 @@ B.S. in Information & Computer Engineering
 Mar. 2021 – Feb. 2027 (Expected)
 
 ## Research Interests
-- Generative Models and Diffusion Models
+- Multimodal Generative Models
 - Vision Backbone Architectures
-- State Space Models for Vision
 - Representation Learning
 - World Models
   

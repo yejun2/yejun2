@@ -1,5 +1,4 @@
 # Yejun Jung
-
 You can call me **Jun** (pronounced **June**).
 
 I am an undergraduate student at Pusan National University. I am majoring in Computer Science & Engineering.

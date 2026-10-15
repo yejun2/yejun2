@@ -14,9 +14,9 @@ Mar. 2021 – Feb. 2027 (Expected)
 ## Research Interests
 - Generative Models and Diffusion Models
 - Vision Backbone Architectures
-- State Space Models
+- State Space Models for Vision
 - Representation Learning
-- world models
+- World Models
   
 ## News 🎉
 

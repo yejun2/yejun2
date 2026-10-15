@@ -2,7 +2,7 @@
 
 You can call me **Jun** (pronounced **June**).
 
-I am an undergraduate student in Computer Science & Engineering at Pusan National University.
+I am an undergraduate student at Pusan National University. I am majoring in Computer Science & Engineering.
 I am currently a Research Intern at Korea University advised by Prof. Sungjoon Choi, and an Undergraduate Researcher at Pusan National University advised by Prof. Jinsun Park.
 
 ## Education

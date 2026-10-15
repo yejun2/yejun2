@@ -3,6 +3,8 @@
 I am an undergraduate student in Information & Computer Engineering at Pusan National University.
 I am currently a Research Intern at AI Imaging Lab, Korea University, and an Undergraduate Researcher at VIPLab, Pusan National University.
 
+[LinkedIn](https://www.linkedin.com/in/yejun-jung-53856b431/) · [Email](mailto:yejun2@pusan.ac.kr)
+
 ## Education
 
 **Pusan National University**  
@@ -55,5 +57,3 @@ Undergraduate Researcher — Visual Intelligence and Perceptron Lab, Pusan Natio
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejun2313)](https://solved.ac/yejun2313)
 
-### Contact
-Email: yejun2@pusan.ac.kr

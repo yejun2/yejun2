@@ -18,9 +18,11 @@ Mar. 2021 – Feb. 2027 (Expected)
   
 ## News 🎉
 
+- **2026 — (Upcoming) Attending NeurIPS 2026 in Sydney, 🇦🇺.**
 - **2026 — Our paper CC-3DVG was accepted to WACV 2027.**
 - **2026 — Our paper Mixture-of-Hierarchical Experts was accepted to NeurIPS 2026.**
 - **2026 — Ranked 9th / 82 teams in the PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1.**
+- **2026 — Attended NeurIPS 2026 in Jeju Island, 🇰🇷.**
 - **2026 — Our work on diffusion-based sea-ice forecasting was accepted to IPIU 2026.**
 
 ## Publications

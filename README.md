@@ -31,7 +31,7 @@ NeurIPS 2026 · [Paper](https://github.com/yejun2/Mixture-of-Hierarchical-Expert
 
 **CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding**  
 WACV 2027 · [Paper] · [Code]  
-camera-ready paper and code will be released soon.  
+<sub>Camera-ready paper and code will be released soon.</sub>  
 Minjung Gong, **Yejun Jung**, Dongyun Kim, Jinsun Park<sup>†</sup>  
 <sub>† Corresponding author</sub>
 

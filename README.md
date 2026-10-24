@@ -1,6 +1,7 @@
 # Yejun Jung
-You can call me **Jun** (pronounced **June**) or James. \\
-please feel free to contact me if you have any questions
+You can call me **Jun** (pronounced **June**) or James.
+
+Please feel free to contact me if you have any questions.
 
 ## Education
 

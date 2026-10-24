@@ -42,8 +42,6 @@ Minjung Gong, **Yejun Jung**, Dongyun Kim, Jinsun Park<sup>†</sup>
 
 ## Research Experience
 
-**Research Intern** — AI Imaging Lab, Korea University. Sep. 2026 – Present
-
 **Undergraduate Researcher** — Visual Intelligence and Perceptron Lab, Pusan National University. Jul. 2025 – Present
 
 

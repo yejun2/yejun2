@@ -25,7 +25,7 @@ Mar. 2021 – Feb. 2027 (Expected)
 ## Publications
 
 **Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion**  
-NeurIPS 2026 · [Paper] · [Code](https://github.com/yejun2/Mixture-of-Hierarchical-Experts)  
+NeurIPS 2026 · [Paper](https://github.com/yejun2/Mixture-of-Hierarchical-Experts/paper.pdf) · [Code](https://github.com/yejun2/Mixture-of-Hierarchical-Experts)  
 **Yejun Jung**, Dongyun Kim, Jinsun Park<sup>†</sup>  
 <sub>† Corresponding author</sub>
 

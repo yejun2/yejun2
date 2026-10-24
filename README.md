@@ -35,7 +35,7 @@ Minjung Gong, **Yejun Jung**, Dongyun Kim, Jinsun Park<sup>†</sup>
 <sub>† Corresponding author</sub>
 
 **Diffusion Transformer for Sea-Ice Concentration Forecasting**  
-*IPIU 2026* · [Paper] · [Code](https://github.com/yejun2/SIC-prediction-architecture)  
+*IPIU 2026* · [Paper](https://github.com/yejun2/SIC-prediction-architecture/blob/main/paper.pdf) · [Code](https://github.com/yejun2/SIC-prediction-architecture)  
 **Yejun Jung***, Dongyun Kim*, Jinsun Park<sup>†</sup>  
 <sub>* Equal contribution</sub>
 <sub>† Corresponding author</sub>

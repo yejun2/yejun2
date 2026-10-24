@@ -58,4 +58,3 @@ Minjung Gong, **Yejun Jung**, Dongyun Kim, Jinsun Park<sup>†</sup>
 ## Contact
 
 - **Email:** [yejun2@pusan.ac.kr](mailto:yejun2@pusan.ac.kr)
-- **LinkedIn:** [yejun-jung-53856b431](https://www.linkedin.com/in/yejun-jung-53856b431/)

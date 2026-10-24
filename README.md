@@ -51,7 +51,7 @@ Minjung Gong, **Yejun Jung**, Dongyun Kim, Jinsun Park<sup>†</sup>
 ## Awards and Honors
 
 - 9th Place, PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1 — 2026 · [Code](https://github.com/yejun2/TISR-challenge-2026-track-1)
-- Excellence Award, 6th Pusan National University Creative Convergence SW Hackathon — 2025
+- Excellence Award, 6th Pusan National University Creative Convergence SW Hackathon — 2025 · [Code](https://github.com/2025-PNU-SW-Hackathon/PNUSW-2025-go-16)
 - Bronze Award, Pusan National University CodeRace — 2022
 
 [![Solved.ac

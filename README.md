@@ -25,7 +25,7 @@ Mar. 2021 – Feb. 2027 (Expected)
 ## Publications
 
 **Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion**  
-NeurIPS 2026 · [Paper] · [Code]  
+NeurIPS 2026 · [Paper] · [Code](https://github.com/yejun2/Mixture-of-Hierarchical-Experts)  
 **Yejun Jung**, Dongyun Kim, Jinsun Park<sup>†</sup>  
 <sub>† Corresponding author</sub>
 
@@ -35,7 +35,7 @@ Minjung Gong, **Yejun Jung**, Dongyun Kim, Jinsun Park<sup>†</sup>
 <sub>† Corresponding author</sub>
 
 **Diffusion Transformer for Sea-Ice Concentration Forecasting**  
-*IPIU 2026* · [Paper] · [Code]  
+*IPIU 2026* · [Paper] · [Code](https://github.com/yejun2/SIC-prediction-architecture)  
 **Yejun Jung***, Dongyun Kim*, Jinsun Park<sup>†</sup>  
 <sub>* Equal contribution</sub>
 <sub>† Corresponding author</sub>
@@ -47,7 +47,7 @@ Minjung Gong, **Yejun Jung**, Dongyun Kim, Jinsun Park<sup>†</sup>
 
 ## Awards and Honors
 
-- 9th Place, PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1 — 2026
+- 9th Place, PBVS @ CVPR 2026 Thermal Image Super-Resolution Challenge, Track 1 — 2026 · [Code](https://github.com/yejun2/TISR-challenge-2026-track-1)
 - Excellence Award, 6th Pusan National University Creative Convergence SW Hackathon — 2025
 - Bronze Award, Pusan National University CodeRace — 2022
 
